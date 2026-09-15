@@ -1,0 +1,6 @@
+{
+  "name": "知辨",
+  "description": "把用户自然语言问题相关的知乎回答，变成可探索的观点关系图谱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
